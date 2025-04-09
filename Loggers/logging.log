@@ -1,0 +1,15 @@
+2025-03-11 15:52:25 DEBUG XmlLoggers4j: 14 - This is a debug message
+2025-03-11 15:52:25 INFO  XmlLoggers4j: 15 - This is an info message
+2025-03-11 15:52:25 WARN  XmlLoggers4j: 16 - This is a warning message
+2025-03-11 15:52:25 ERROR XmlLoggers4j: 17 - This is an error message
+2025-03-11 15:52:25 FATAL XmlLoggers4j: 18 - This is a fatal message
+2025-03-11 15:52:43 DEBUG XmlLoggers4j: 14 - This is a debug message
+2025-03-11 15:52:43 INFO  XmlLoggers4j: 15 - This is an info message
+2025-03-11 15:52:43 WARN  XmlLoggers4j: 16 - This is a warning message
+2025-03-11 15:52:43 ERROR XmlLoggers4j: 17 - This is an error message
+2025-03-11 15:52:43 FATAL XmlLoggers4j: 18 - This is a fatal message
+2025-03-11 15:57:26 DEBUG XmlLoggers4j: 14 - This is a debug message
+2025-03-11 15:57:26 INFO  XmlLoggers4j: 15 - This is an info message
+2025-03-11 15:57:26 WARN  XmlLoggers4j: 16 - This is a warning message
+2025-03-11 15:57:26 ERROR XmlLoggers4j: 17 - This is an error message
+2025-03-11 15:57:26 FATAL XmlLoggers4j: 18 - This is a fatal message
