@@ -66,6 +66,11 @@
                     <includes>
                         <include>**/*Test.java</include>  <!-- Runs classes ending with 'Test' -->
                     </includes>
+                    <suiteXmlFiles>
+                    <suiteXmlFile>
+                      TestNG.xml
+                    </suiteXmlFile>
+                    </suiteXmlFiles>
                 </configuration>
             </plugin>
              <plugin>
